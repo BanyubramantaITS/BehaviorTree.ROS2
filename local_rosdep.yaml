@@ -1,0 +1,9 @@
+btcpp_ros2_interfaces:
+  ubuntu:
+    - ros-humble-btcpp-ros2-interfaces
+behaviortree_ros2:
+  ubuntu:
+    - ros-humble-behaviortree-ros2
+btcpp_ros2_samples:
+  ubuntu:
+    - ros-humble-btcpp-ros2-samples
